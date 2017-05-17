@@ -2,3 +2,4 @@ this is my first git in linux
 first we have to create directory
 i took as git practice as folder
 then pass the git comands
+first i pass git init command
